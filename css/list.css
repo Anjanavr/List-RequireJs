@@ -1,7 +1,15 @@
+body { 
+	margin: 0 auto;
+	text-align: center;
+	width: 80%;
+}
 #container {
 	width: 100%;
 }
 #container h1 {
 	font-weight: bolder;
 	text-align: center;
+}
+li {
+	list-style-type: none;
 }
