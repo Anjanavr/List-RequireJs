@@ -10,6 +10,13 @@ body {
 	font-weight: bolder;
 	text-align: center;
 }
+
+div#app {
+  margin: 10% auto;
+  width: 40%;
+  border: 1px solid;
+}
+
 li {
 	list-style-type: none;
 }
